@@ -16,5 +16,5 @@ The `cities_with_country_state.geojson` was created with `enrich_cities.py` from
 ## Modifications and Building
 
 - Modify `operations.json` to update the shading of the map
-- Run `filter_cities.py` to update `av_cities_filtered.json`
-- Use a bundler and serve
+- Run `npm run build` (dev will not update map on changes to operations.json)
+- Run `npm run preview`
