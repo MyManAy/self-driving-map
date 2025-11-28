@@ -2,6 +2,8 @@
 
 A visualization of self-driving vehicle zones for U.S. companies. Currently only contains data for Waymo and Zoox as only they have public commercial operations.
 
+![Open Graph Image](open-graph.png)
+
 ## Data Sources
 
 - **Global Cities**: [geojson-world-cities](https://github.com/drei01/geojson-world-cities)
