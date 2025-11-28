@@ -1,0 +1,62 @@
+{
+  "WAYMO": {
+    "serving": [
+      { "type": "county", "name": "Fulton", "state": "Georgia" },
+      { "type": "county", "name": "Travis", "state": "Texas" },
+      { "type": "county", "name": "Los Angeles", "state": "California" },
+      { "type": "county", "name": "Maricopa", "state": "Arizona" },
+      { "type": "county", "name": "San Francisco", "state": "California" },
+      { "type": "county", "name": "San Mateo", "state": "California" },
+      { "type": "county", "name": "Santa Clara", "state": "California" }
+    ],
+    "next": [
+      { "type": "county", "name": "Dallas", "state": "Texas" },
+      { "type": "county", "name": "Denver", "state": "Colorado" },
+      { "type": "county", "name": "Wayne", "state": "Michigan" },
+      { "type": "county", "name": "Harris", "state": "Texas" },
+      { "type": "county", "name": "Clark", "state": "Nevada" },
+      { "type": "county", "name": "Miami-Dade", "state": "Florida" },
+      { "type": "county", "name": "Davidson", "state": "Tennessee" },
+      { "type": "county", "name": "Orange", "state": "Florida" },
+      { "type": "county", "name": "Bexar", "state": "Texas" },
+      { "type": "county", "name": "San Diego", "state": "California" },
+      { "type": "county", "name": "District of Columbia", "state": "District of Columbia" },
+      { "type": "county", "name": "Alameda", "state": "California" },
+      { "type": "county", "name": "Contra Costa", "state": "California" },
+      { "type": "county", "name": "Marin", "state": "California" },
+      { "type": "county", "name": "Sonoma", "state": "California" },
+      { "type": "county", "name": "Napa", "state": "California" },
+      { "type": "county", "name": "Solano", "state": "California" },
+      { "type": "county", "name": "Yolo", "state": "California" },
+      { "type": "county", "name": "Sacramento", "state": "California" },
+      { "type": "county", "name": "Orange", "state": "California" },
+      { "type": "city", "name": "London", "country_code": "GB" }
+    ],
+    "driving": [
+      { "type": "county", "name": "Erie", "state": "New York" },
+      { "type": "county", "name": "Suffolk", "state": "Massachusetts" },
+      { "type": "county", "name": "Hennepin", "state": "Minnesota" },
+      { "type": "county", "name": "Orleans", "state": "Louisiana" },
+      { "type": "county", "name": "New York", "state": "New York" },
+      { "type": "county", "name": "Philadelphia", "state": "Pennsylvania" },
+      { "type": "county", "name": "King", "state": "Washington" },
+      { "type": "county", "name": "Hillsborough", "state": "Florida" },
+      { "type": "city", "name": "Tokyo", "country_code": "JP" }
+    ]
+  },
+  "ZOOX": {
+    "serving": [
+      { "type": "county", "name": "Clark", "state": "Nevada" },
+      { "type": "county", "name": "San Francisco", "state": "California" }
+    ],
+    "next": [
+      { "type": "county", "name": "Travis", "state": "Texas" },
+      { "type": "county", "name": "Miami-Dade", "state": "Florida" }
+    ],
+    "driving": [
+      { "type": "county", "name": "District of Columbia", "state": "District of Columbia" },
+      { "type": "county", "name": "Fulton", "state": "Georgia" },
+      { "type": "county", "name": "Los Angeles", "state": "California" }
+    ]
+  }
+}
