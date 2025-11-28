@@ -1,9 +1,9 @@
 import json
 
 # Files
-CONFIG_FILE = 'operations.json'
+CONFIG_FILE = 'public/operations.json'
 INPUT_FILE = 'cities_with_country_state.geojson'
-OUTPUT_FILE = 'av_cities_filtered.json'
+OUTPUT_FILE = 'public/av_cities_filtered.json'
 
 def get_city_targets_from_config():
     """Reads the config.json and extracts only the international cities."""

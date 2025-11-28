@@ -1,0 +1,18 @@
+{
+  "name": "self-driving-map",
+  "version": "1.0.0",
+  "description": "A visualization of self-driving vehicle zones for U.S. companies. Currently only contains data for Waymo and Zoox as only they have public commercial operations.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "python filter_cities.py && vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^6.4.1"
+  }
+}
