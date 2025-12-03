@@ -38,10 +38,13 @@
       { "type": "county", "name": "Hennepin", "state": "Minnesota" },
       { "type": "county", "name": "Orleans", "state": "Louisiana" },
       { "type": "county", "name": "New York", "state": "New York" },
-      { "type": "county", "name": "Philadelphia", "state": "Pennsylvania" },
       { "type": "county", "name": "King", "state": "Washington" },
       { "type": "county", "name": "Hillsborough", "state": "Florida" },
-      { "type": "city", "name": "Tokyo", "country_code": "JP" }
+      { "type": "city", "name": "Tokyo", "country_code": "JP" },
+      { "type": "county", "name": "Baltimore", "state": "Maryland" },
+      { "type": "county", "name": "Allegheny", "state": "Pennsylvania" },
+      { "type": "county", "name": "Philadelphia", "state": "Pennsylvania" },
+      { "type": "county", "name": "St. Louis", "state": "Missouri" }
     ]
   },
   "ZOOX": {
