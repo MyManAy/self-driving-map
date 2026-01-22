@@ -7,7 +7,8 @@
       { "type": "county", "name": "Maricopa", "state": "Arizona" },
       { "type": "county", "name": "San Francisco", "state": "California" },
       { "type": "county", "name": "San Mateo", "state": "California" },
-      { "type": "county", "name": "Santa Clara", "state": "California" }
+      { "type": "county", "name": "Santa Clara", "state": "California" },
+      { "type": "county", "name": "Miami-Dade", "state": "Florida" }
     ],
     "next": [
       { "type": "county", "name": "Dallas", "state": "Texas" },
@@ -15,12 +16,15 @@
       { "type": "county", "name": "Wayne", "state": "Michigan" },
       { "type": "county", "name": "Harris", "state": "Texas" },
       { "type": "county", "name": "Clark", "state": "Nevada" },
-      { "type": "county", "name": "Miami-Dade", "state": "Florida" },
       { "type": "county", "name": "Davidson", "state": "Tennessee" },
       { "type": "county", "name": "Orange", "state": "Florida" },
       { "type": "county", "name": "Bexar", "state": "Texas" },
       { "type": "county", "name": "San Diego", "state": "California" },
-      { "type": "county", "name": "District of Columbia", "state": "District of Columbia" },
+      {
+        "type": "county",
+        "name": "District of Columbia",
+        "state": "District of Columbia"
+      },
       { "type": "county", "name": "Alameda", "state": "California" },
       { "type": "county", "name": "Contra Costa", "state": "California" },
       { "type": "county", "name": "Marin", "state": "California" },
@@ -57,7 +61,11 @@
       { "type": "county", "name": "Miami-Dade", "state": "Florida" }
     ],
     "driving": [
-      { "type": "county", "name": "District of Columbia", "state": "District of Columbia" },
+      {
+        "type": "county",
+        "name": "District of Columbia",
+        "state": "District of Columbia"
+      },
       { "type": "county", "name": "Fulton", "state": "Georgia" },
       { "type": "county", "name": "Los Angeles", "state": "California" }
     ]
